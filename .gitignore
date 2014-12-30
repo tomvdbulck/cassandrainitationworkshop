@@ -81,3 +81,5 @@ local.properties
 .texlipse
 
 
+cassandra-initiation/.classpath
+cassandra-initiation/.project
