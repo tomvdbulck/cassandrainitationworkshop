@@ -83,3 +83,8 @@ local.properties
 
 cassandra-initiation/.classpath
 cassandra-initiation/.project
+
+## Vagrant ##
+
+.vagrant/
+
