@@ -21,7 +21,7 @@ Cassandra first workshop
 	```sh
 	vagrant up
 	```
-	This will start up the vagrant box. The first time will take a while as it has to download the OS image, elasticsearch and other dependencies.
+	This will start up the vagrant box. The first time will take a while as it has to download the OS image and other dependencies.
    
 	Shutting down the vagrant box can be done by typing
 	```sh
