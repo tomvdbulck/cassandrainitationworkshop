@@ -17,7 +17,7 @@ Cassandra first workshop
 
 4. Clone this repository into your workspace
 
-5. Open a command prompt, go to the elasticsearchworkshop folder and run
+5. Open a command prompt, go to the cassandrainitiationworkshop/vagrant folder and run
 	```sh
 	vagrant up
 	```
